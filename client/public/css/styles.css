@@ -1,0 +1,5 @@
+.jumbotron {
+    padding: 5vmax 0;
+    background-image: linear-gradient(to right, #ff0000, #ff9900);
+    color: #fff;
+}
